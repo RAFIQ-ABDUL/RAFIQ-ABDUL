@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAFIQ-ABDUL
 - 👀 I’m interested in coding and badminton
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently honing my skills in machine learning
 - 📫 How to reach me rafiqabdulmanan@gmail.com
   
 
